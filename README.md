@@ -16,4 +16,4 @@
 ⠀⠀⠀
 - 👋 Hi, I’m Daniel
 - Here you can find my development portfolio and code examples.
-- Thanks for your visit.
+- Thanks for your visit. 
