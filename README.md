@@ -14,6 +14,6 @@
 ⠀⠀⠀⠀⠀⣿⣿⡿⠟⠉⠀⠀⠀⠻⡿⠁⠀⠀⠈⠛⠿⣿⣿⡆⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠀⠀
 ⠀⠀⠀
-- 👋 Hi, I’m Daniel
+- 👋 Hi, I’m Daniel, Musician and Digital Artist.
 - Here you can find my development portfolio and code examples.
 - Thanks for your visit. 
